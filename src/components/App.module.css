@@ -1,0 +1,22 @@
+.content {
+    justify-content: space-around;
+    margin: 0 auto;
+    padding: 0 60px 0 60px;
+    display: flex;
+    flex-direction: column;
+}
+
+.content__container {
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 60px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    background-color: #fff;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px,
+        rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.3) 0px 16px 48px;
+    color: black;
+    border-radius: 10px;
+}
